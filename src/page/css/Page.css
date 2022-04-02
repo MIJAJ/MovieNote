@@ -1,0 +1,6 @@
+.main {
+    @apply max-w-2xl mx-auto py-8 px-4 sm:py-12 sm:px-4 lg:max-w-7xl lg:px-8;
+}
+.main .content {
+    @apply flex items-center justify-between;
+}
